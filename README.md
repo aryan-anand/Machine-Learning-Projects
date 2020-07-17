@@ -1,1 +1,1 @@
-# Neural-Networks-and-Deep-learning
+# Machine Learning Projects
